@@ -1,0 +1,7 @@
+{
+  "name": "SpecCraft - Phân Tích Yêu Cầu Web App",
+  "description": "Công cụ phân tích yêu cầu sản phẩm và tạo bản đặc tả PRD chuẩn cho Google AI Studio Build",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
